@@ -37,4 +37,4 @@ You'll have a ```UCI HAR Dataset``` folder, this is your working directory.
 
 ## Dependencies
 
-```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```plyr``` and ```data.table```. 
+```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```plyr```.
